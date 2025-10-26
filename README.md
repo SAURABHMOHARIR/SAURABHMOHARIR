@@ -27,7 +27,7 @@ Now, as a **PGDM student at MDI Gurgaon**, I am leveraging my analytical, operat
 ---
 
 ## 🧩 Featured Project  
-### 🚀 Startup KPI Dashboard — Live Google Sheets Sync (Version 2.0) (https://startup-kpi-dashboard-v2-ovaakossysedxvbgv2hs23.streamlit.app/)
+### 🚀 [Startup KPI Dashboard — Live Google Sheets Sync (Version 2.0)](https://startup-kpi-dashboard-v2-ovaakossysedxvbgv2hs23.streamlit.app/)
 
 An upgraded real-time business intelligence dashboard built with Python and Streamlit, seamlessly integrated with Google Sheets API for live data synchronization and dynamic startup KPI tracking.
 
