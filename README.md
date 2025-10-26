@@ -43,7 +43,7 @@ Highlights:
 
 🔄 GitHub Integration: Linked with GitHub for continuous iteration, version management, and CI/CD readiness
 
-🔗 View Code on GitHub
+🔗 [View Code](https://github.com/SAURABHMOHARIR/Startup-KPI-Dashboard-v2)
 
 ### [🚀 Startup KPI Dashboard — Data-Driven OKR Tracking](https://startup-kpi-dashboard-abknmtzhg4egb22yuqwrp5.streamlit.app)
 > A business intelligence dashboard built using **Python** and **Streamlit**, simulating startup KPIs for OKR tracking and strategy analysis.
