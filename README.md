@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saurabh Moharir  
 
-🎓 **PGDM Candidate | Management Development Institute (MDI), Gurgaon | Batch of 2026**  
+🎓 **PGDM Student| Management Development Institute (MDI), Gurgaon | Batch of 2025-27**  
 ⚙️ **Ex-Junior Engineer (Signal), Indian Railways (Ministry of Railways)**  
 📊 **Engineer turned management professional passionate about Strategy, Consulting, and Data-Driven Decision Making**  
 
