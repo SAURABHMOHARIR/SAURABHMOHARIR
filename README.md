@@ -32,13 +32,20 @@ A production-ready prediction market platform for Indian events with Firebase au
 
 #### Highlights:
 
-Interactive Voting System: Real-time Yes/No voting with probability updates based on collective intelligence
-Firebase Integration: Google Sign-In authentication and Firestore database for event creation
-12 India-Specific Events: Covering Macro, BFSI, Energy, Geopolitics, and Sports markets
-User-Generated Content: Authenticated users can create and vote on custom prediction markets
-Premium UI/UX: Next.js 16 with Tailwind CSS v4, dark mode, glassmorphism effects
-Full-Stack Production App: Deployed on Vercel with complete CI/CD pipeline
-Tech Stack: Next.js 16, Firebase Auth, Cloud Firestore, Vercel, TypeScript
+-> Interactive Voting System: Real-time Yes/No voting with probability updates based on collective intelligence
+
+-> Firebase Integration: Google Sign-In authentication and Firestore database for event creation
+
+-> 12 India-Specific Events: Covering Macro, BFSI, Energy, Geopolitics, and Sports markets
+
+-> User-Generated Content: Authenticated users can create and vote on custom prediction markets
+
+-> Premium UI/UX: Next.js 16 with Tailwind CSS v4, dark mode, glassmorphism effects
+
+-> Full-Stack Production App: Deployed on Vercel with complete CI/CD pipeline
+
+-> Tech Stack: Next.js 16, Firebase Auth, Cloud Firestore, Vercel, TypeScript
+
 🔗 [Live Demo](https://ind-polymarket.vercel.app/) | [View Code](https://github.com/SAURABHMOHARIR/india-market-expectations)
 
 ### 💹 Institutional FX & Derivatives RFQ Platform
@@ -46,12 +53,18 @@ A high-performance Request for Quote (RFQ) system for OTC FX Options and Derivat
 
 #### Highlights:
 
-Quantitative Pricing Engine: Black-Scholes and Garman-Kohlhagen models for FX options with real-time Greeks (Delta, Gamma, Vega, Theta)
-Multi-Dealer Liquidity: Best execution engine aggregating quotes from simulated market makers
-Product Coverage: FX Spot, Forwards, Vanilla Options, and Barrier Options
-Professional Trading UI: Dark-themed institutional interface with real-time WebSocket updates
-Complete RFQ Lifecycle: CREATED → QUOTING → EXECUTED state management
-Tech Stack: Python, FastAPI, React, TypeScript, PostgreSQL, NumPy, SciPy
+-> Quantitative Pricing Engine: Black-Scholes and Garman-Kohlhagen models for FX options with real-time Greeks (Delta, Gamma, Vega, Theta)
+
+-> Multi-Dealer Liquidity: Best execution engine aggregating quotes from simulated market makers
+
+-> Product Coverage: FX Spot, Forwards, Vanilla Options, and Barrier Options
+
+-> Professional Trading UI: Dark-themed institutional interface with real-time WebSocket updates
+
+-> Complete RFQ Lifecycle: CREATED → QUOTING → EXECUTED state management
+
+-> Tech Stack: Python, FastAPI, React, TypeScript, PostgreSQL, NumPy, SciPy
+
 🔗 [View Code](https://github.com/SAURABHMOHARIR/fx-derivatives-platform)
 
 ### 🚀 [Startup KPI Dashboard — Live Google Sheets Sync (Version 2.0)](https://startup-kpi-dashboard-v2-ovaakossysedxvbgv2hs23.streamlit.app/)
