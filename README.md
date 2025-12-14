@@ -26,28 +26,52 @@ Now, as a **PGDM student at MDI Gurgaon**, I am leveraging my analytical, operat
 
 ---
 
-## 🧩 Featured Project  
-### 🇮🇳 India Market Expectations — Polymarket-Inspired Prediction Platform
-A production-ready prediction market platform for Indian events with Firebase authentication and real-time voting.
+## 🧩 Featured Project
 
-#### Highlights:
+### 🇮🇳 India Market Expectations — AI-Driven Market Intelligence Platform
 
--> Interactive Voting System: Real-time Yes/No voting with probability updates based on collective intelligence
+*A Polymarket-inspired decision intelligence system to quantify uncertainty around India’s key market and policy events.*
 
--> Firebase Integration: Google Sign-In authentication and Firestore database for event creation
+---
 
--> 12 India-Specific Events: Covering Macro, BFSI, Energy, Geopolitics, and Sports markets
+### Overview
 
--> User-Generated Content: Authenticated users can create and vote on custom prediction markets
+An AI-powered research platform that frames **market expectations as probabilities**, combining public news, macro signals, and AI reasoning to support **strategy and presales discussions**.
 
--> Premium UI/UX: Next.js 16 with Tailwind CSS v4, dark mode, glassmorphism effects
+> ⚠️ **Disclaimer:** This is a research and decision-support tool — **not** a trading, prediction, or betting platform.
 
--> Full-Stack Production App: Deployed on Vercel with complete CI/CD pipeline
+---
 
--> Tech Stack: Next.js 16, Firebase Auth, Cloud Firestore, Vercel, TypeScript
+### Key Highlights
 
+- **Probability-Based Expectation Framing**  
+  Yes/No probability cards for India-specific macro, sectoral, and company-level events.
+
+- **AI-Generated Rationale**  
+  Gemini-powered explanations outlining the key drivers behind each probability.
+
+- **India-Focused Coverage**  
+  Macro, BFSI, Energy, IT, PSU, Geopolitics, and Sports-related market events.
+
+- **Google-Native Authentication**  
+  Firebase Google Sign-In to simulate enterprise user workflows and personalization.
+
+- **Polished Product UI**  
+  Modern card-based interface with clear uncertainty signaling (volatility indicators, drivers).
+
+- **Production-Ready Web Application**  
+  Deployed on Vercel with a clean CI/CD setup.
+
+---
+
+### Tech Stack
+
+- **Frontend:** Next.js, TypeScript, Tailwind CSS  
+- **AI & Reasoning:** Google Gemini  
+- **Authentication & Data:** Firebase Authentication, Cloud Firestore  
+- **Deployment:** Vercel
 🔗 [Live Demo](https://ind-polymarket.vercel.app/) | [View Code](https://github.com/SAURABHMOHARIR/india-market-expectations)
-
+----------------
 ### 💹 Institutional FX & Derivatives RFQ Platform
 A high-performance Request for Quote (RFQ) system for OTC FX Options and Derivatives, replicating institutional single-dealer platforms.
 
